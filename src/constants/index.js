@@ -261,16 +261,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Portfolio WebApp",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Personal Portfolio ReactJS based website showcasing my skills and experiences",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "threejs",
           color: "green-text-gradient",
         },
         {
@@ -279,7 +279,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/shrestha-tripathi/portfolio",
     },
   ];
   
