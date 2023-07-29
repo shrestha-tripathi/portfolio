@@ -66,6 +66,9 @@ const Navbar = () => {
                       : "text-secondary"
                     } font-poppins font-medium cursor-pointer text-[16px]`}
                   onClick={() => {
+                    if (link.link) {
+                      window.open(link.link, "_blank");
+                    }
                     setToggle(!toggle);
                     setActive(link.title);
                   }}
