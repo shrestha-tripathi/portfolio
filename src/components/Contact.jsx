@@ -21,7 +21,7 @@ const Contact = () => {
     setLoading(true);
 
     // For sending legit email give proper argments below
-    emailjs.send("service_2xzgniq", "template_spsv878", {
+    emailjs.send("service_2xzgniq", "template_4t8orgk", {
       from_name: form.name,
       to_name: 'Shrestha',
       from_email: form.email,
