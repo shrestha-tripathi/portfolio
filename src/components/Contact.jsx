@@ -21,13 +21,13 @@ const Contact = () => {
     setLoading(true);
 
     // For sending legit email give proper argments below
-    emailjs.send("serviceId", "templateId", {
+    emailjs.send("service_2xzgniq", "template_spsv878", {
       from_name: form.name,
       to_name: 'Shrestha',
       from_email: form.email,
       to_email: 'shrestha.tripathi@gmail.com',
       message: form.message,
-    }, "public_key").then(() => {
+    }, "e05ZtHA7Sms-MQrO5").then(() => {
       setLoading(false);
       alert("Thank You. I will get back to you as soon as possible.");
       setForm({name: '', email: '', message: ''});
