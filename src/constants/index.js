@@ -13,8 +13,7 @@ import {
     git,
     docker,
     carrent,
-    jobit,
-    tripguide,
+    webrtcproj,
     threejs,
     aws,
     bash,
@@ -260,6 +259,31 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Peer2Peer Video App",
+      description:
+        "WebRTC based video calling application with support for video conferences as well",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "WebRTC",
+          color: "green-text-gradient",
+        },
+        {
+          name: "websocket",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: webrtcproj,
+      source_code_link: "https://github.com/shrestha-tripathi/WebRTC-App",
+    },
     {
       name: "Portfolio WebApp",
       description:

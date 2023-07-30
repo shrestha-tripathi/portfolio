@@ -34,8 +34,7 @@ import webrtc from "./tech/webrtc.png";
 import websocket from "./tech/websocket.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import webrtcproj from "./webrtcproj.png";
 
 import tf1 from "./company/tf1.png";
 import ge from "./company/ge.png";
@@ -68,8 +67,7 @@ export {
   tailwind,
   threejs,
   carrent,
-  jobit,
-  tripguide,
+  webrtcproj,
   tf1,
   ge,
   ge1,
