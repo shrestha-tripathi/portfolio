@@ -55,6 +55,11 @@ import {
       id: "resume",
       title: "Resume",
       link: "https://drive.google.com/file/d/12c7SqeBVSuDZ0PrhFQpJaM8cDvas1K80/view?usp=sharing",
+    },
+    {
+      id: "linkedin",
+      title: "LinkedIn",
+      link: "https://www.linkedin.com/in/shrestha-tripathi/",
     }
   ];
   
