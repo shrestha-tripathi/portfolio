@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import www from "./www.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -35,6 +36,7 @@ import websocket from "./tech/websocket.png";
 
 import carrent from "./carrent.png";
 import webrtcproj from "./webrtcproj.png";
+import wasmsec from "./wasmsec.png";
 
 import tf1 from "./company/tf1.png";
 import ge from "./company/ge.png";
@@ -53,6 +55,7 @@ export {
   mobile,
   web,
   github,
+  www,
   menu,
   close,
   css,
@@ -88,5 +91,6 @@ export {
   powershell,
   python,
   webrtc,
-  websocket
+  websocket,
+  wasmsec
 };

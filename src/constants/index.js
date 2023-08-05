@@ -14,6 +14,7 @@ import {
     docker,
     carrent,
     webrtcproj,
+    wasmsec,
     threejs,
     aws,
     bash,
@@ -265,9 +266,35 @@ import {
   
   const projects = [
     {
+      name: "WASM Security Toolkit",
+      description:
+        "A WASM (WebAssembly) based useful security toolkit webapp for hackers or pen-testers",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "WASM",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Rust",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: wasmsec,
+      source_code_link: "https://github.com/shrestha-tripathi/wasm_sec_toolkit",
+      project_link: "https://shrestha-tripathi.github.io/wasm_sec_toolkit/"
+    },
+    {
       name: "Peer2Peer Video App",
       description:
-        "WebRTC based video calling application with support for video conferences as well",
+        "WebRTC based video calling application with support for video conferences as well. This need NodeJS based signalling server!",
       tags: [
         {
           name: "react",
@@ -309,6 +336,7 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/shrestha-tripathi/portfolio",
+      project_link: "https://shrestha-tripathi.github.io/portfolio/"
     },
   ];
   
