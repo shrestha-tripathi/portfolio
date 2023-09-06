@@ -37,6 +37,7 @@ import websocket from "./tech/websocket.png";
 import carrent from "./carrent.png";
 import webrtcproj from "./webrtcproj.png";
 import wasmsec from "./wasmsec.png";
+import aiToolkit from "./ai-toolkit.png";
 
 import tf1 from "./company/tf1.png";
 import ge from "./company/ge.png";
@@ -92,5 +93,6 @@ export {
   python,
   webrtc,
   websocket,
-  wasmsec
+  wasmsec,
+  aiToolkit
 };

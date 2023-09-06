@@ -15,6 +15,7 @@ import {
     carrent,
     webrtcproj,
     wasmsec,
+    aiToolkit,
     threejs,
     aws,
     bash,
@@ -265,6 +266,32 @@ import {
   ];
   
   const projects = [
+    {
+      name: "AI Toolkit Genie",
+      description:
+        "A Next.js based AI toolkit web application supporting multiple features like LLM Chats, Code generation, Music generation, Video generation & Image generation.",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "prisma",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "SSR",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: aiToolkit,
+      source_code_link: "https://github.com/shrestha-tripathi/ai-toolkit",
+      project_link: "https://ai-toolkit-ochre.vercel.app"
+    },
     {
       name: "WASM Security Toolkit",
       description:
