@@ -56,7 +56,7 @@ import {
     {
       id: "resume",
       title: "Resume",
-      link: "https://drive.google.com/file/d/12c7SqeBVSuDZ0PrhFQpJaM8cDvas1K80/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1jsVRha1MTDAO6Q0OP4yoe3CWgDY-eHzG/view?usp=sharing",
     },
     {
       id: "linkedin",
