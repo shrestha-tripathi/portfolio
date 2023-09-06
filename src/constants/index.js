@@ -79,8 +79,6 @@ import {
       icon: backend,
     }
   ];
-
-
   
   const technologies = [
     // {
