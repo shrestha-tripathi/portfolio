@@ -3,6 +3,7 @@ import { styles } from "../style";
 import ParticlesHero from "./ParticleHero";
 // import { ComputersCanvas } from "./canvas";
 
+
 const Hero = () => {
   return (
     <section className="relative w-full h-screen mx-auto">
