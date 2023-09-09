@@ -39,6 +39,8 @@ import {
     thmop,
     thmrt,
   } from "../assets";
+
+  export const homeLink = "/portfolio/";
   
   export const navLinks = [
     {
