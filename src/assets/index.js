@@ -48,6 +48,8 @@ import wes from "./badges/wes.png"
 import thmop from "./badges/thm-op.png";
 import thmrt from "./badges/thm-rt.png";
 
+import avatar from "./avatar.png";
+
 
 export {
   logo,
@@ -94,5 +96,6 @@ export {
   webrtc,
   websocket,
   wasmsec,
-  aiToolkit
+  aiToolkit,
+  avatar
 };
