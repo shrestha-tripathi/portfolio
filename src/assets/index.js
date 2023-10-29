@@ -38,6 +38,7 @@ import carrent from "./carrent.png";
 import webrtcproj from "./webrtcproj.png";
 import wasmsec from "./wasmsec.png";
 import aiToolkit from "./ai-toolkit.png";
+import netflixClone from "./netflix-clone.png";
 
 import tf1 from "./company/tf1.png";
 import ge from "./company/ge.png";
@@ -74,6 +75,7 @@ export {
   threejs,
   carrent,
   webrtcproj,
+  netflixClone,
   tf1,
   ge,
   ge1,

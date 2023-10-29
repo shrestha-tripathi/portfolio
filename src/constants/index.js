@@ -38,6 +38,7 @@ import {
     wes,
     thmop,
     thmrt,
+    netflixClone,
   } from "../assets";
 
   export const homeLink = "/portfolio/";
@@ -58,7 +59,7 @@ import {
     {
       id: "resume",
       title: "Resume",
-      link: "https://drive.google.com/file/d/1jsVRha1MTDAO6Q0OP4yoe3CWgDY-eHzG/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1DOh3-SsDh5D__iBDbq422bfxif4ACq8a/view?usp=sharing",
     },
     {
       id: "linkedin",
@@ -366,6 +367,24 @@ import {
       image: carrent,
       source_code_link: "https://github.com/shrestha-tripathi/portfolio",
       project_link: "https://shrestha-tripathi.github.io/portfolio/"
+    },
+    {
+      name: "Netflix Clone with HTML & CSS",
+      description:
+        "Pure HTML and CSS Netflix Clone HTML page, TODO: add responsiveness",
+      tags: [
+        {
+          name: "HTML5",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+      ],
+      image: netflixClone,
+      source_code_link: "https://github.com/shrestha-tripathi/netflix-html-clone",
+      project_link: "https://shrestha-tripathi.github.io/netflix-html-clone/"
     },
   ];
   
