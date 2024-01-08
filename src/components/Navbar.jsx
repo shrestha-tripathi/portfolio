@@ -34,7 +34,7 @@ const Navbar = () => {
           </p>
           <div 
             onClick={() => setVisibleLeft((prev) => !prev)} 
-            className="h-8 w-8 bg-zinc-700 text-secondary p-1 rounded-md hover:text-white  cursor-pointer">
+            className="h-8 w-8 bg-zinc-700 p-1 rounded-md text-white animate-blink cursor-pointer">
             <FaTerminal
               className="h-4 w-4" />
           </div>
