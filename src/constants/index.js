@@ -42,6 +42,8 @@ import {
   } from "../assets";
 
   export const homeLink = "/portfolio/";
+
+  export const terminalFrameLink = "https://terminal-portfolio-delta.vercel.app/"
   
   export const navLinks = [
     {
