@@ -34,9 +34,9 @@ const Navbar = () => {
           </p>
           <div 
             onClick={() => setVisibleLeft((prev) => !prev)} 
-            className="h-8 w-8 bg-zinc-700 p-1 rounded-md text-white animate-blink cursor-pointer">
+            className="h-8 w-8 bg-zinc-700 p-1 rounded-md text-white cursor-pointer">
             <FaTerminal
-              className="h-4 w-4" />
+              className="h-4 w-4 animate-pulse" />
           </div>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
