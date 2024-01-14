@@ -39,6 +39,7 @@ import {
     thmop,
     thmrt,
     netflixClone,
+    discordClone,
   } from "../assets";
 
   export const homeLink = "/portfolio/";
@@ -271,6 +272,32 @@ import {
   ];
   
   const projects = [
+    {
+      name: "FullStack Discord Clone",
+      description:
+        "A Next.js 14 based fullstack discord clone application supporting audio, video, and text channels with realtime updates using web sockets.",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "prisma",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "websockets",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: discordClone,
+      source_code_link: "https://github.com/shrestha-tripathi/discord-clone",
+      project_link: "https://discord-clone-production-a4c6.up.railway.app"
+    },
     {
       name: "AI Toolkit Genie",
       description:
