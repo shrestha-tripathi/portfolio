@@ -62,7 +62,12 @@ import {
     {
       id: "resume",
       title: "Resume",
-      link: "https://drive.google.com/file/d/1DOh3-SsDh5D__iBDbq422bfxif4ACq8a/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1rrvd3p8-Q5-XLwrQqvWdHiYXB5XJDeUV/view?usp=sharing",
+    },
+    {
+      id: "github",
+      title: "Github",
+      link: "https://github.com/shrestha-tripathi",
     },
     {
       id: "linkedin",
