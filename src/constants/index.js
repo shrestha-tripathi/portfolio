@@ -40,6 +40,7 @@ import {
     thmrt,
     netflixClone,
     discordClone,
+    oswe,
   } from "../assets";
 
   export const homeLink = "/portfolio/";
@@ -237,6 +238,14 @@ import {
   ];
   
   const certifications = [
+    {
+      certificate: "OffSec Web Expert (OSWE)",
+      issuer: "OffSec",
+      date: "July 2024",
+      credId: "796128",
+      image: oswe,
+      verifyLink: "https://www.credential.net/df0d9633-506f-4395-bbad-be47ebfcf53d#gs.efaejs",
+    },
     {
       certificate: "OffSec Certified Professionsal (OSCP)",
       issuer: "OffSec",

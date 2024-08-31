@@ -46,6 +46,7 @@ import ge from "./company/ge.png";
 import ge1 from "./company/ge1.png";
 
 import oscp from "./badges/oscp.png";
+import oswe from "./badges/oswe.png";
 import wes from "./badges/wes.png"
 import thmop from "./badges/thm-op.png";
 import thmrt from "./badges/thm-rt.png";
@@ -82,6 +83,7 @@ export {
   ge,
   ge1,
   oscp,
+  oswe,
   wes,
   thmop,
   thmrt,
